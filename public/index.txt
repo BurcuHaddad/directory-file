@@ -1,0 +1,11 @@
+Directory Contents: 
+C:\Users\burcu\Documents\DirectoryFile\public
+C:\Users\burcu\Documents\DirectoryFile\public\assets
+C:\Users\burcu\Documents\DirectoryFile\public\assets\icons
+C:\Users\burcu\Documents\DirectoryFile\public\assets\icons\index.txt
+C:\Users\burcu\Documents\DirectoryFile\public\assets\icons\indexCopy.txt
+C:\Users\burcu\Documents\DirectoryFile\public\assets\index.txt
+C:\Users\burcu\Documents\DirectoryFile\public\assets\indexCopy.txt
+C:\Users\burcu\Documents\DirectoryFile\public\index.txt
+C:\Users\burcu\Documents\DirectoryFile\public\indexCopy.txt
+Generated: 2023-11-14T13:42:36.733703400

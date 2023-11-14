@@ -1,0 +1,5 @@
+Directory Contents: 
+C:\Users\burcu\Documents\DirectoryFile\public\assets\icons
+C:\Users\burcu\Documents\DirectoryFile\public\assets\icons\index.txt
+C:\Users\burcu\Documents\DirectoryFile\public\assets\icons\indexCopy.txt
+Generated: 2023-11-14T13:42:36.729702200
